@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wedding-seating-chart/static/css/main.69e88434.css",
+    "main.js": "/wedding-seating-chart/static/js/main.065338d8.js",
+    "index.html": "/wedding-seating-chart/index.html",
+    "main.69e88434.css.map": "/wedding-seating-chart/static/css/main.69e88434.css.map",
+    "main.065338d8.js.map": "/wedding-seating-chart/static/js/main.065338d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69e88434.css",
+    "static/js/main.065338d8.js"
+  ]
+}
