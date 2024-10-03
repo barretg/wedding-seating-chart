@@ -15,8 +15,7 @@
                 "*XA",
                 "*RUF",
                 "*Senior Design",
-                "*Boppell HS Marching Band",
-                "*Wedding Guests"
+                "*Boppell HS Marching Band"
             ],
             [
                 "Barret Glass",
@@ -24,8 +23,7 @@
                 "*Happy Couple",
                 "*RUF",
                 "*XA",
-                "*Danger Zone",
-                "*Wedding Guests"
+                "*Danger Zone"
             ]
         ],
         "1": [
@@ -117,6 +115,7 @@
                 "Sam Barton",
                 "null",
                 "undefined",
+                "Stupid Moose",
                 "*Groomsmen",
                 "Groomsman",
                 "*RUF",
@@ -249,7 +248,8 @@
                 "Groomsman",
                 "*RUF",
                 "*Hooligan",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "Stupid Moose"
             ],
             [
                 "Reuben Stecher",
